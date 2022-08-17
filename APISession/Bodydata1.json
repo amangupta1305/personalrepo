@@ -1,0 +1,31 @@
+{
+ "firstname":
+{
+        "firstname": "Param",
+        "Middlename": "deep"
+},
+ "lastname":"awana",
+ "designatin": "Sr. test lead",
+ "Address": 
+ [      
+{
+        "House No.": "148",
+        "ward No": "25",
+        "type" : "Primary Address",
+        "Landmark": "Near kiran taukij bwhind chapra qauter",
+        "State": "Navi mumbai",
+        "Dsitrict": "mumbai"
+        
+},
+{
+        "House No.": "137",
+        "ward No": "44",
+        "type" : "Secondary Address",
+        "Landmark": "Near bakhae dhaba",
+        "State": "M.P.",
+        "Dsitrict": "Indore"
+}
+],
+  "id": "2010",
+  "Gender": "Male"
+ }
